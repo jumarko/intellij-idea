@@ -1,0 +1,5 @@
+# Following is the live template content.
+# You have to set VAR to "complete()" via "Edit variables" dialog.
+# Context should be set to "Java"
+Validate.notEmpty($VAR$, "$VAR$ cannot be empty!");
+
